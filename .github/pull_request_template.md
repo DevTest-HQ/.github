@@ -1,7 +1,5 @@
 ## Summary
 
-!`[<TITLE>](<long or short description>)`
-
 A brief description of the pull request.
 
 ## Task Link (Trello or Planner)
@@ -9,8 +7,8 @@ A brief description of the pull request.
 
 ## Known issues / Notes
 
-If you found any issues while developing the feature, this is the place where you should detail everything.
-Also you can report bugs found or any missing functionality.
+If you found any issues while working on the feature, this is the place where you should go over everything.
+Also, you can report bugs found or any missing functionality.
 
 
 ## Screenshots or Screencasts
